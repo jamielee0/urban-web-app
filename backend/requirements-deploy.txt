@@ -10,3 +10,4 @@ python-dotenv==1.0.0
 httpx==0.25.2
 pydantic-extra-types==2.3.0
 numpy==1.26.2
+pillow==10.1.0
